@@ -1,8 +1,3 @@
----
-title: "README"
-author: "lrubecula"
-date: "19 November 2018"
-output: html_document
----
+# Kaggle 2018 Survey
 
 Exploring the results of the Kaggle Survey 2018.
